@@ -40,3 +40,38 @@
 .read-the-docs {
   color: #888;
 }
+
+table img {
+  height: 100px;
+}
+
+button {
+  margin: 10px;
+}
+
+table {
+  margin: 50px;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+tr {
+  border-bottom: 1px solid #ccc;
+}
+
+td {
+  width: 300px;
+  padding: 10px;
+}
+
+thead {
+  font-weight: 700;
+  font-size: 1.2em;
+}
+
+.btn-box {
+  width: 85vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
